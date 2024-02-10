@@ -60,7 +60,6 @@
 					<descriptorRefs>
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
-					<outputDirectory>${project.build.directory}/../../deploy/server</outputDirectory>
 				</configuration>
 				<executions>
 					<execution>
