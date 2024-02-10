@@ -8,7 +8,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 @EnableScheduling
-@EntityScan(basePackages = "es.iesjandula.reaktor.monitoring_server.models")
+@EntityScan(basePackages = "es.iesjandula.reaktor.monitoring_server")
 public class MonitoringServerApplication
 {
     public static void main(String[] args)
